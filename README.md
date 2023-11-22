@@ -11,9 +11,6 @@ Employ advanced algorithms to filter stocks based on a range of metrics, from tr
 Interactive Visualizations:
 Transform complex financial data into clear and insightful visualizations, enabling users to quickly grasp market trends, correlations, and key performance indicators.
 
-Customizable Dashboards:
-Personalize your analysis experience by creating dashboards that cater to your specific investment goals. Arrange and prioritize metrics for a streamlined workflow.
-
 Performance Metrics Overview:
 Track and evaluate the historical and real-time performance of your portfolio and individual stocks, providing a comprehensive view of your investments.
 
@@ -25,3 +22,5 @@ Dive deep into the financial health of companies using a comprehensive set of fi
 
 Scenario Analysis Tools:
 Anticipate market movements and assess potential scenarios through simulation tools. Evaluate the impact of economic events, industry trends, and global changes on your portfolio
+
+Currently, a streamlit dashboard can be leveraged to analyze most recent data pulled from yahoo finance. Plan is to include additional visualiations along with the ability to filter critera (market cap, sector, etc). Stay tuned!
